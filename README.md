@@ -15,4 +15,5 @@ puerto por defecto es el 4200
 Tener node version 24 a más para evitar problemas en la ejecución en desarrollo.
 
 ## Paquetes.
-Bootstrap
+- Bootstrap
+- Jwt Decode
